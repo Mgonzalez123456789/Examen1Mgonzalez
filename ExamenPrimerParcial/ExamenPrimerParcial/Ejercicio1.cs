@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ExamenPrimerParcial
 {
-    public partial class Form1 : Form
+    public partial class Ejercicio1 : Form
     {
-        public Form1()
+        public Ejercicio1()
         {
             InitializeComponent();
         }

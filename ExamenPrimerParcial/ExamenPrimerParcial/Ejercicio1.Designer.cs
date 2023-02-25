@@ -1,6 +1,6 @@
 ﻿namespace ExamenPrimerParcial
 {
-    partial class Form1
+    partial class Ejercicio1
     {
         /// <summary>
         /// Variable del diseñador necesaria.
